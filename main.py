@@ -7,7 +7,6 @@ import numpy as np
 import pydaisi as pyd
 import librosa
 import streamlit.components.v1 as components
-import pandas as pd
 whisper_model_gpu = pyd.Daisi("kanav/Whisper Model-GPU")
 
 st.markdown("## Whisper Web-ui")
