@@ -1,6 +1,5 @@
+git+https://github.com/openai/whisper.git
 streamlit
 soundfile
 librosa
 pydaisi
-pandas
-git+https://github.com/openai/whisper.git
